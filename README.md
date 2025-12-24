@@ -115,29 +115,16 @@ print(df)
 ```
 numpy-and-pandas-for-analysis/
 │
-├── notebooks/
-│   ├── 01_numpy_basics.ipynb
-│   ├── 02_numpy_advanced.ipynb
-│   ├── 03_pandas_intro.ipynb
-│   ├── 04_pandas_data_cleaning.ipynb
-│   ├── 05_pandas_analysis.ipynb
-│   └── 06_real_world_projects.ipynb
+├── csv/
 │
-├── datasets/
-│   ├── sample_data.csv
-│   ├── sales_data.xlsx
-│   └── README.md
+├── numpy_basics/
 │
-├── scripts/
-│   ├── data_preprocessing.py
-│   ├── analysis_utils.py
-│   └── visualization.py
+├── pandas_basics/
 │
-├── exercises/
-│   └── practice_problems.md
+├── pandas_for_schema_validation
 │
-├── requirements.txt
-├── LICENSE
+│ ** more folders to be addded with progress
+│
 └── README.md
 ```
 
