@@ -7,9 +7,6 @@
 # Ignore VSCode folders anywhere
 **/.vscode/
 
-# Ignore all CSV files
-*.csv
-
 # Ignore log files
 *.log
 

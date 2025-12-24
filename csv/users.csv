@@ -1,0 +1,11 @@
+user_id,username,status,email
+1,alice,dwaadw,alice@example.com
+2,bob,inactive,bob@example.com
+3,charlie,suspended,charlie@example.com
+4,david,active,david@example.com
+5,eve,inactive,eve@example.com
+6,frank,active,frank@example.com
+7,grace,suspended,grace@example.com
+8,heidi,active,heidi@example.com
+9,ivan,inactive,ivan@example.com
+10,judy,active,judy@example.com
