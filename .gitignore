@@ -1,0 +1,16 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore notebooks you don’t want to push
+**/_extra_topics.ipynb
+
+# Ignore VSCode folders anywhere
+**/.vscode/
+
+# Ignore all CSV files
+*.csv
+
+# Ignore log files
+*.log
+
+*.ipynb filter=strip_output
