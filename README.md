@@ -9,15 +9,16 @@ A comprehensive collection of Python scripts and Jupyter notebooks designed to h
 
 ## 📚 Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Repository Structure](#repository-structure)
-- [Learning Path](#learning-path)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-- [Resources](#resources)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Quick Start](#-quick-start)
+- [Repository Structure](#-repository-structure)
+- [Learning Path](#️-learning-path)
+- [Examples](#-examples)
+- [Learning Objectives](#-learning-objectives)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Resources](#-resources)
 
 ## ✨ Features
 
@@ -107,6 +108,37 @@ data = {'Name': ['Alice', 'Bob', 'Charlie'],
         'City': ['NYC', 'LA', 'Chicago']}
 df = pd.DataFrame(data)
 print(df)
+```
+
+## 📁 Repository Structure
+
+```
+numpy-and-pandas-for-analysis/
+│
+├── notebooks/
+│   ├── 01_numpy_basics.ipynb
+│   ├── 02_numpy_advanced.ipynb
+│   ├── 03_pandas_intro.ipynb
+│   ├── 04_pandas_data_cleaning.ipynb
+│   ├── 05_pandas_analysis.ipynb
+│   └── 06_real_world_projects.ipynb
+│
+├── datasets/
+│   ├── sample_data.csv
+│   ├── sales_data.xlsx
+│   └── README.md
+│
+├── scripts/
+│   ├── data_preprocessing.py
+│   ├── analysis_utils.py
+│   └── visualization.py
+│
+├── exercises/
+│   └── practice_problems.md
+│
+├── requirements.txt
+├── LICENSE
+└── README.md
 ```
 
 ## 🗺️ Learning Path
