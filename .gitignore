@@ -1,9 +1,6 @@
 # Ignore macOS system files
 .DS_Store
 
-# Ignore notebooks you don’t want to push
-**/_extra_topics.ipynb
-
 # Ignore VSCode folders anywhere
 **/.vscode/
 
