@@ -1,4 +1,3 @@
-from opcode import opname
 import numpy as np
 
 #  creating array with existing data
