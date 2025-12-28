@@ -1,0 +1,8 @@
+user_id,signup_date,age,salary,gender,zip_code,plan_type
+001,2024-01-15,29,50000,M,560001,Basic
+002,,34,62000,F,110011,Premium
+003,2024-02-30,27,45000,M, ,Basic
+004,N/A, ,70000,F,560001,Premium
+005,2024-13-01,31,not_available,M,400001,Enterprise
+006,garbage,28,58000,X,560001,Basic
+007,2024-03-10, , ,F,110011,Enterprise
