@@ -1,0 +1,12 @@
+customer_id,name,country,signup_date,lifetime_value,segment
+C001,john doe,india,2023-01-15,1200,retail
+C002,JANE SMITH,usa,2023-02-10,800,retail
+C003,alice,uk,2023-03-05,-50,enterprise
+C004,Bob Brown,usa,,400,retail
+C002,Jane Smith,USA,2023-02-10,950,retail
+C005,  michael lee ,india,2023-04-01,0,enterprise
+C006,sara o'connor,ireland,invalid_date,300,retail
+C007,张伟,china,2023-05-20,1500,enterprise
+C008,,india,2023-06-01,700,retail
+C009,Emma Wilson,UK,2023-07-15,NaN,retail
+C010,Liam Davis,usa,2023-08-10,2000,enterprise
